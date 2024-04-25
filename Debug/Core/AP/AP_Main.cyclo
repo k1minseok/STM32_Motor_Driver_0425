@@ -1,0 +1,5 @@
+../Core/AP/AP_Main.c:21:6:HAL_GPIO_EXTI_Callback	1
+../Core/AP/AP_Main.c:29:6:sys_init	1
+../Core/AP/AP_Main.c:57:5:APMain	1
+../Core/AP/AP_Main.c:122:6:modeStateCheck	4
+../Core/AP/AP_Main.c:150:6:modeStateRun	9
